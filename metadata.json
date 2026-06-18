@@ -1,0 +1,6 @@
+{
+  "name": "MealMate",
+  "description": "A personal, AI-powered daily food assistant that suggests what to eat based on user preferences and daily inputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
